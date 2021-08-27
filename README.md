@@ -5,5 +5,5 @@
 </div>
 
 Support software for MaSK.  
-(MaSK is software that visualizes the molecular properties calculated by Firefly.)  
+([MaSK](http://ccmsi.us/mask/) is software that visualizes the molecular properties calculated by Firefly.)  
 For more details on FMCleaner, please go to [hhttp://pc-chem-basics.blog.jp/archives/26827834.html](http://pc-chem-basics.blog.jp/archives/26827834.html)
